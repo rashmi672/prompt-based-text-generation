@@ -1,1 +1,3 @@
-# prompt-based-text-generation
+# Prompt-Based-Text-Generation
+
+"Prompt-Based-Text-Generation" is a project aimed at developing a text generation model, potentially using the GPT-2 architecture. It's like teaching a computer to write by giving it instructions. With this project, we want to create a system where you can ask the computer for specific text, and it will give you a good and sensible response. Let's work together to make this text tool smart and helpful for everyone!
